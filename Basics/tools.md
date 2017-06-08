@@ -1,4 +1,4 @@
-# Projects build on steem 
+# Projects build on steem
 
 * Steemit - The major steem platform
 
@@ -7,6 +7,8 @@
 * eSteem - Mobile app for iOS and Android
 
 * ChainBB - Forum style platform on steem
+
+* Autosteem - Automated blogging and curation - https://autosteem.learnthis.ca/\#!/home
 
 
 
