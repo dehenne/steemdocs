@@ -6,5 +6,5 @@ Busy | A different style on steem | https://busy.org | ? | Operating
 eSteem | Mobile app for iOS and Android | http://esteem.ws | [@good-karma](https://steemit.com/@good-karma) | Operating
 ChainBB | Forum style platform on steem | https://beta.chainbb.com | [@jesta](https://steemit.com/@jesta) | Operating (beta)
 Autosteem | Automated blogging and curation | https://autosteem.learnthis.ca | [@unipsycho](https://steemit.com/@unipsycho)| Operating
-Steem Followers | Follower details for your steem profile | https://steem.makerwannabe.com | [@shaunmza](https://steemit.com/@shaunmza)
+Steem Followers | Follower details for your steem profile | https://steem.makerwannabe.com | [@shaunmza](https://steemit.com/@shaunmza) | Operating
 Insteem | Mobile app (react-native), twitter style | http://www.insteem.com | [@sarasate](https://steemit.com) | Prototype (Alpha)
