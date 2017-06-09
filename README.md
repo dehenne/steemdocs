@@ -1,6 +1,6 @@
 # Steem Docs
 
-Developer resources for Steem.
+Developer resources for Steem. The idea behind is to post content/docs/tutorial on steem and collect it here in a structured and easy to search format.
 
 ## What is Steem?
 
