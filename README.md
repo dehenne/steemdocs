@@ -12,6 +12,7 @@ Steem is a social media platform on a distributed blockchain where content creat
 * Contributors are welcome to create PRs in the github repo: [https://github.com/sarasate/steemdocs](https://github.com/sarasate/steemdocs)
 * Markdown only.
 * English only.
+* Post tutorials, recipes, glossaries and longer dev articles on steem first, then provide it here with your user/blog meta data.
 * tbc.
 
 
