@@ -1,4 +1,4 @@
-# Documentation resources 
+# Documentation resources
 
 A list of available resources for Tutorials, API docs etc.
 
@@ -6,8 +6,7 @@ A list of available resources for Tutorials, API docs etc.
 * Steem.io docs - Technical and user docs from steemit - [https://steem.io/documentation/](https://steem.io/documentation/)
 * API Explorer - Testing tool for the Steem API - [http://steemroll.io/api-explorer/](http://steemroll.io/api-explorer/)
 * Steem Python - Docs for the Python Lib steem-python - [http://steem.readthedocs.io/en/latest/](http://steem.readthedocs.io/en/latest/)
-
-
+* Steemit on github - Steemit source code and libs - [https://github.com/steemit](https://github.com/steemit)
 
 
 
