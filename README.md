@@ -8,7 +8,7 @@ Steem is a social media platform on a distributed blockchain where content creat
 
 ## Contribution rules
 
-* Steem docs are published via gitbook as open source \(free\). 5 seats, 4 left. 
+* Steem docs are published via gitbook as open source \(free\). 5 seats, 4 left. Reach out if you want to contribute seriously.
 * Contributors are welcome to create PRs in the github repo: [https://github.com/sarasate/steemdocs](https://github.com/sarasate/steemdocs)
 * Markdown only.
 * English only.
