@@ -7,6 +7,7 @@ A list of available resources for Tutorials, API docs etc.
 * API Explorer - Testing tool for the Steem API - [http://steemroll.io/api-explorer/](http://steemroll.io/api-explorer/)
 * Steem Python - Docs for the Python Lib steem-python - [http://steem.readthedocs.io/en/latest/](http://steem.readthedocs.io/en/latest/)
 * Steemit on github - Steemit source code and libs - [https://github.com/steemit](https://github.com/steemit)
+* Piston docs - Python 3 CLI and lib for steem - [http://piston-cli.readthedocs.io/en/develop/\#](http://piston-cli.readthedocs.io/en/develop/#)
 
 
 
