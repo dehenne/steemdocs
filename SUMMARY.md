@@ -5,4 +5,6 @@
   * [Libraries](Basics/libraries.md)
   * [Existing projects](Basics/tools.md)
   * [Resources](Basics/doc-resources.md)
+* [Tutorials](tutorials.md)
+* Recipes
 
