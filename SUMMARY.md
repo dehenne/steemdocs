@@ -8,4 +8,5 @@
 * [Tutorials](tutorials.md)
 * [Recipes](recipes.md)
 * [Glossary](glossary.md)
+* [Contributors](contributors.md)
 
