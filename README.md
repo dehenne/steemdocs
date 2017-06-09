@@ -13,7 +13,8 @@ Steem is a social media platform on a distributed blockchain where content creat
 * Markdown only.
 * English only.
 * Post tutorials, recipes, glossaries and longer dev articles on steem first, then provide it here with your user/blog meta data.
-* tbc.
+* Libraries and packages listed here should be updated at least once during the last 3 month. If maintenance is older, please make a note.
+* t.b.c.
 
 
 
