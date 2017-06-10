@@ -10,5 +10,5 @@
 * [Glossary](glossary.md)
   * [WIF](glossary/wif.md)
 * [Contributors](contributors.md)
-* [Developers](developer.md)
+* [Developers](developers.md)
 
