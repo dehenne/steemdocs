@@ -11,6 +11,7 @@ Name | Skills | Projects | Joined
 [@jesta](http://steemit.com/@jesta) | Python, JS, React, Electrum | [ChainBB](https://beta.chainbb.com), [PeerplaysDB](https://peerplaysdb.com), [SteemDB](https://steemdb.com), [GolosDB](https://golosdb.com), [Vessel](https://github.com/aaroncox/vessel), [steemstats](https://steemstats.com) (inactive), [reprint](https://github.com/greymass/reprint) (inactive), [steem-php](https://github.com/greymass/steemphp) (inactive) | July 2016
 [@xtar](https://steemit.com/@xtar) | JS, ? | [Escrow GUI](https://github.com/MrXtar/steem-golos-escrow-gui), [Bulletin Board](https://golosim.ru/escrow/index.html?tab=board&blockchain=steem), [PPY Witness Monitor](http://ppy.steemul.ru/witnesses/), [Golos explorer](http://steemul.ru) (ru)  | July 2016
 [@roelandp](http://steemit.com/@roelandp) | ? | http://steemtools.com | July 2016
+[@dez1337](https://steemit.com/@dez1337) | Java, JavaScript | [SteemJ](https://github.com/marvin-we/steem-java-api-wrapper) | July 2016
 [@unipsycho](http://steemit.com/@unipsycho) | ? | [Autosteem](https://autosteem.learnthis.ca) | Oct 2016
 [@shaunmza](http://steemit.com/@shaunmza) | PHP, Go | https://steem.makerwannabe.com | Jan 2017
 [@augustol](http://steemit.com/@augustol) | JS, React | [SteemBlog](https://github.com/SteemBlog/app) | April 2017
