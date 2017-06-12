@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Basics](Basics/SUMMARY.md)
-  * [Libraries](Basics/libraries.md)
-  * [Existing projects](Basics/projects.md)
-  * [Resources](Basics/doc-resources.md)
+* [Basics](basics/SUMMARY.md)
+  * [Libraries](basics/libraries.md)
+  * [Existing projects](basics/projects.md)
+  * [Resources](basics/doc-resources.md)
 * [Tutorials](tutorials.md)
 * [Recipes](recipes.md)
 * [Glossary](glossary.md)
