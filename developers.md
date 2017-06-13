@@ -26,3 +26,4 @@ Name | Skills | Projects | Joined
 Name | Skills | Interested in | Joined
 ---- | ------ | --------- | ------
 [@davidk](https://steemit.com/@davidk) | PHP, MySQL, JS | Web development | June 2017
+[@shanij](https://steemit.com/@shanij) | Swift, Ruby, RoR, Python | App development (iOS)  | June 2017
