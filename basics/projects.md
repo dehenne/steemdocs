@@ -12,3 +12,5 @@ Steemd | Steem block explorer | https://steemd.com | ? | Operating
 SteemDB | Steem block explorer with more details | https://steemdb.com | [@jesta](https://steemit.com/@jesta) | Operating
 Insteem | Mobile app (react-native), twitter style | http://www.insteem.com | [@sarasate](https://steemit.com) | Prototype (Alpha)
 Dead Followers | Shows inactive followers | http://steemit.deadfollowers.info | [@mynameisbrian](https://steemit.com/@mynameisbrian) | Operating
+SteemStats | Stats about steem | https://steemstats.com | [@jesta](https://steemit.com/@jesta) | Operating
+SteemWhales | Ranking and stats about steem whales | https://steemwhales.com/ | [@heimindanger](https://steemit.com/@heimindanger) | Operating
