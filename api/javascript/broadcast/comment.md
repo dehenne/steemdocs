@@ -20,6 +20,9 @@ Submits a post or comment to the blockchain.
 
 `callback` - Callback function for error/result handling.
 
+    steem.broadcast.comment(wif, parentAuthor, parentPermlink, author, permlink, title, body, jsonMetadata, function(err, result) {
+      console.log(err, result);
+    });
 
 ## Example
 Submit a post.
