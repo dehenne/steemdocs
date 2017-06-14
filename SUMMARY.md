@@ -10,7 +10,7 @@
     * [Content](api/javascript/content.md)
       * [getState\(\)](api/javascript/content/getstate.md)
     * [Broadcast](api/javascript/broadcast.md)
-      * [comment](api/javascript/broadcast/comment.md)
+      * [comment\(\)](api/javascript/broadcast/comment.md)
 * [Tutorials](tutorials.md)
 * [Recipes](recipes.md)
 * [Glossary](glossary.md)
