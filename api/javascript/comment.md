@@ -22,6 +22,7 @@ Submits a post or comment to the blockchain.
 
 
 ## Example
+Submit a post.
 
        steem.broadcast.comment(
           // WIF
