@@ -22,6 +22,8 @@ Name | Skills | Projects | Joined
 [@sarasate](http://steemit.com/@sarasate) | JS, React, React Native, GraphQL | [Insteem](http://www.insteem.com) (prototype), [Steem Docs](https://www.steemdocs.com), [SteemNews](http://news.insteem.com) (prototype)| April 2017
 [@zcgolf16](https://steemit.com/@zcgolf16) | Python | [SteemTicker-OSX](https://github.com/ZachC16/steemticker-osx), [SteemAlerts](https://github.com/ZachC16/steem-alerts), Python GUI Wallet | May 2017
 [@reggaemuffin](https://steemit.com/@reggaemuffin) | Ruby, React | SteemSports | May 2017
+[@benniebanana](https://steemit.com/@benniebanana) | Python | Python@[SteemDocs](https://www.steemdocs.com) | June 2017
+
 
 ## Developers looking for projects
 
