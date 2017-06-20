@@ -7,6 +7,7 @@
   * [Resources](basics/doc-resources.md)
 * [Tutorials](tutorials.md)
   * [Python](tutorials/python.md)
+    * Beginners Guide
 * [Recipes](recipes.md)
 * [Glossary](glossary.md)
   * [WIF](glossary/wif.md)
