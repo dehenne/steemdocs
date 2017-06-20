@@ -6,6 +6,7 @@
   * [Existing projects](basics/projects.md)
   * [Resources](basics/doc-resources.md)
 * [Tutorials](tutorials.md)
+  * [Python](tutorials/python.md)
 * [Recipes](recipes.md)
 * [Glossary](glossary.md)
   * [WIF](glossary/wif.md)
