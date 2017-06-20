@@ -1,4 +1,4 @@
-# Setting up your Python development environment in Ubuntu 
+# Setting up your Python development environment and using the steem-python library in Ubuntu 
 
 In order to use steem-python we need to have at least Python version 3.5 or higher.
 
