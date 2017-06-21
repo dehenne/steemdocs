@@ -11,6 +11,7 @@
 * [Recipes](recipes.md)
 * [Glossary](glossary.md)
   * [WIF](glossary/wif.md)
+  * [Reputation Score](glossary/reputation-score.md)
 * [Contributors](contributors.md)
 * [Developers](developers.md)
 * [API](api.md)
