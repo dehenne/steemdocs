@@ -13,6 +13,7 @@ Name | Skills | Projects | Joined
 [@jesta](http://steemit.com/@jesta) | Python, JS, React, Electrum | [ChainBB](https://beta.chainbb.com), [PeerplaysDB](https://peerplaysdb.com), [SteemDB](https://steemdb.com), [GolosDB](https://golosdb.com), [Vessel](https://github.com/aaroncox/vessel), [steemstats](https://steemstats.com) (inactive), [reprint](https://github.com/greymass/reprint) (inactive), [steem-php](https://github.com/greymass/steemphp) (inactive) | July 2016
 [@xtar](https://steemit.com/@xtar) | JS | [Escrow GUI](https://github.com/MrXtar/steem-golos-escrow-gui), [Bulletin Board](https://golosim.ru/escrow/index.html?tab=board&blockchain=steem), [PPY Witness Monitor](http://ppy.steemul.ru/witnesses/), [Golos explorer](http://steemul.ru) (ru)  | July 2016
 [@roelandp](http://steemit.com/@roelandp) | ? | [SteemTools](http://steemtools.com) | July 2016
+[@daynewright](https://steemit.com/@daynewright) | ? | [Steemit Voting Power](https://chrome.google.com/webstore/detail/steemit-voting-power/bhpgldcbmnombmkfoakhomepdnndacci) | July 2016 
 [@dez1337](https://steemit.com/@dez1337) | Java, JavaScript | [SteemJ](https://github.com/marvin-we/steem-java-api-wrapper) | July 2016
 [@cryptomancer](https://steemit.com/@cryptomancer) | Python | [SteemVoter](https://steemvoter.com) | August 2016 
 [@unipsycho](http://steemit.com/@unipsycho) | ? | [Autosteem](https://autosteem.learnthis.ca) | Oct 2016
