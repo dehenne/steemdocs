@@ -15,4 +15,8 @@ The score on the Steemit profile is a condensed version of the \(huge\) value st
 * round down to nearest integer
 
 
+**Example (JS)**
 
+    const calculateReputationScore = reputation => {
+     return Math.floor(Math.max(Math.log10(Math.abs(reputation)) - 9, 0) * 9 + 25);
+     }; 
