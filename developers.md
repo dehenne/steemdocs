@@ -9,7 +9,7 @@ Name | Skills | Projects | Joined
 ---- | ------ | -------- | ------
 [@xeroc](https://steemit.com/@xeroc) | Python | [Streemian](https://streemian.com), [Piston](http://piston-cli.readthedocs.io/en/develop/) | April 2016
 [@furion](https://steemit.com/@furion) | ? | [SteemData](https://steemdata.com) | July 2016
-[@good-karma](http://steemit.com/@good-karma) | JS, Ionic, Cordova | [eSteem](http://esteem.ws) | July 2016
+[@good-karma](http://steemit.com/@good-karma) | JS, NodeJS, Angular, Ionic, Cordova | [eSteem](http://esteem.ws), SteemMonitor (App), SteemFest (App), [SteemPoll](https://github.com/eSteemApp/steempoll) | July 2016
 [@jesta](http://steemit.com/@jesta) | Python, JS, React, Electrum | [ChainBB](https://beta.chainbb.com), [PeerplaysDB](https://peerplaysdb.com), [SteemDB](https://steemdb.com), [GolosDB](https://golosdb.com), [Vessel](https://github.com/aaroncox/vessel), [steemstats](https://steemstats.com) (inactive), [reprint](https://github.com/greymass/reprint) (inactive), [steem-php](https://github.com/greymass/steemphp) (inactive) | July 2016
 [@xtar](https://steemit.com/@xtar) | JS | [Escrow GUI](https://github.com/MrXtar/steem-golos-escrow-gui), [Bulletin Board](https://golosim.ru/escrow/index.html?tab=board&blockchain=steem), [PPY Witness Monitor](http://ppy.steemul.ru/witnesses/), [Golos explorer](http://steemul.ru) (ru)  | July 2016
 [@roelandp](http://steemit.com/@roelandp) | ? | [SteemTools](http://steemtools.com) | July 2016
