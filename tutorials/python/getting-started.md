@@ -2,8 +2,8 @@
 
 In order to use steem-python we need to have at least Python version 3.5 or higher.
 
-## Checking your Python version
-
+  ## Checking your Python version
+  
 ````$ python3 -V ````
 
 Which should give you an output similar to this:
