@@ -1,4 +1,4 @@
-<h1>Creating a little Python program to view raw block data from the Steem blockchain</h1> 
+<h1>Create a little Python program to view raw block data from the Steem blockchain</h1> 
 
 
 <p>In this tutorial I'll be showing you how to create a little graphical program to view the raw data of a block on the STEEM blockchain using the <a href="http://steem.readthedocs.io/en/latest/" rel="nofollow noopener">steem-python</a> library and Tkinter which is Pythons most popular GUI (Graphical User Interface) toolkit. Our little program won't be the most beautiful program out there but hopefully it will show you how you could implement the steem-python library into your own programs and if you're new to Tkinter you'll learn something useful as well. When we're done our little program should look like this:</p>
