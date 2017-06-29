@@ -18,8 +18,7 @@
   * [JavaScript](api/javascript.md)
     * [Content](api/javascript/content.md)
       * [getState\(\)](api/javascript/content/getstate.md)
+      * [getAccounts\(\)](api/javascript/content/getaccounts.md)
     * [Broadcast](api/javascript/broadcast.md)
       * [comment\(\)](api/javascript/broadcast/comment.md)
-
-
 
