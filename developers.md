@@ -20,16 +20,16 @@ It only covers those who were active at least in the last 3 month.
 | [@shaunmza](http://steemit.com/@shaunmza) | PHP, Go | [SteemFollower](https://steem.makerwannabe.com) | Jan 2017 |
 | [@robertdurst10](https://steemit.com/@robertdurst10) | JS, Angular | [SteemEngine](https://steemit.com/steemengine/@robertdurst10/steemengine-sneak-peak-1) | Feb 2017 |
 | [@augustol](http://steemit.com/@augustol) | JS, React | [SteemBlog](https://github.com/SteemBlog/app) | April 2017 |
-| [@sarasate](http://steemit.com/@sarasate) | JS, React, React Native, GraphQL | [Insteem](http://www.insteem.com) \(prototype\), [Steem Docs](https://www.steemdocs.com), [SteemNews](http://news.insteem.com) \(prototype\) | April 2017 |
+| [@sarasate](http://steemit.com/@sarasate) | JS, React, React Native, GraphQL | [Insteem](http://www.insteem.com) \(prototype\), [Steem Docs](https://www.steemdocs.com), [SteemNews](http://news.insteem.com), [SteemQL](http://steem-gql.insteem.com) | April 2017 |
 | [@zcgolf16](https://steemit.com/@zcgolf16) | Python | [SteemTicker-OSX](https://github.com/ZachC16/steemticker-osx), [SteemAlerts](https://github.com/ZachC16/steem-alerts), Python GUI Wallet | May 2017 |
 | [@reggaemuffin](https://steemit.com/@reggaemuffin) | Ruby, React | SteemSports | May 2017 |
-| [@benniebanana](https://steemit.com/@benniebanana) | Python | Python@[SteemDocs](https://www.steemdocs.com) | June 2017 |
+| [@benniebanana](https://steemit.com/@benniebanana) | Python | [SteemitMentions](https://flairr.co.za/steemitmentions), Python@[SteemDocs](https://www.steemdocs.com) | June 2017 |
+| [@davidk](https://steemit.com/@davidk) | PHP, MySQL, JS | [SteemPHP](https://github.com/davidkevork/steemphp) | June 2017 |
 
 ## Developers looking for projects
 
 | Name | Skills | Interested in | Joined |
 | --- | --- | --- | --- |
-| [@davidk](https://steemit.com/@davidk) | PHP, MySQL, JS | Web development | June 2017 |
 | [@shanij](https://steemit.com/@shanij) | Swift, Ruby, RoR, Python | App development \(iOS\) | June 2017 |
 
 
