@@ -24,6 +24,8 @@ It only covers those who were active at least in the last 3 month.
 | [@reggaemuffin](https://steemit.com/@reggaemuffin) | Ruby, React | SteemSports | May 2017 |
 | [@benniebanana](https://steemit.com/@benniebanana) | Python | [SteemitMentions](https://flairr.co.za/steemitmentions), Python@[SteemDocs](https://www.steemdocs.com) | June 2017 |
 | [@davidk](https://steemit.com/@davidk) | PHP, MySQL, JS | [SteemPHP](https://github.com/davidkevork/steemphp) | June 2017 |
+| [@techtek](https://steemit.com/@techtek) | Hardware software design and concept development | [SteemPi](https://github.com/techtek/steempi) | June 2017 |
+| [@dehenne](https://steemit.com/@dehenne) | PHP, *SQL, JS, NodeJS, React, GraphQL, Ionic, *all webstuff*, Linux | [SteemPi](https://github.com/techtek/steempi), [DTube Share](https://github.com/pcsg/dtube-share) | June 2017 |
 
 ## Developers looking for projects
 
