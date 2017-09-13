@@ -18,7 +18,6 @@ It only covers those who were active at least in the last 3 month.
 | [@cryptomancer](https://steemit.com/@cryptomancer) | Python | [SteemVoter](https://steemvoter.com) | August 2016 |
 | [@unipsycho](http://steemit.com/@unipsycho) | ? | [Autosteem](https://autosteem.learnthis.ca) | Oct 2016 |
 | [@shaunmza](http://steemit.com/@shaunmza) | PHP, Go | [SteemFollower](https://steem.makerwannabe.com) | Jan 2017 |
-| [@robertdurst10](https://steemit.com/@robertdurst10) | JS, Angular | [SteemEngine](https://steemit.com/steemengine/@robertdurst10/steemengine-sneak-peak-1) | Feb 2017 |
 | [@augustol](http://steemit.com/@augustol) | JS, React | [SteemBlog](https://github.com/SteemBlog/app) | April 2017 |
 | [@sarasate](http://steemit.com/@sarasate) | JS, React, React Native, GraphQL | [Insteem](http://www.insteem.com) \(prototype\), [Steem Docs](https://www.steemdocs.com), [SteemNews](http://news.insteem.com), [SteemQL](http://steem-gql.insteem.com) | April 2017 |
 | [@zcgolf16](https://steemit.com/@zcgolf16) | Python | [SteemTicker-OSX](https://github.com/ZachC16/steemticker-osx), [SteemAlerts](https://github.com/ZachC16/steem-alerts), Python GUI Wallet | May 2017 |
